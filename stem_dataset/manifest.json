@@ -1,0 +1,1002 @@
+[
+  {
+    "index": 0,
+    "filename": "img_000_aerial_runway_low_noise.png",
+    "category": "aerial_runway",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_000_aerial_runway_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_000_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_000_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_000_edges.png"
+  },
+  {
+    "index": 1,
+    "filename": "img_001_urban_blocks_low_noise.png",
+    "category": "urban_blocks",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_001_urban_blocks_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_001_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_001_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_001_edges.png"
+  },
+  {
+    "index": 2,
+    "filename": "img_002_biometric_fingerprint_low_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_002_biometric_fingerprint_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_002_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_002_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_002_edges.png"
+  },
+  {
+    "index": 3,
+    "filename": "img_003_satellite_river_forest_low_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_003_satellite_river_forest_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_003_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_003_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_003_edges.png"
+  },
+  {
+    "index": 4,
+    "filename": "img_004_historical_manuscript_low_noise.png",
+    "category": "historical_manuscript",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_004_historical_manuscript_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_004_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_004_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_004_edges.png"
+  },
+  {
+    "index": 5,
+    "filename": "img_005_aerial_runway_gaussian_noise.png",
+    "category": "aerial_runway",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_005_aerial_runway_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_005_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_005_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_005_edges.png"
+  },
+  {
+    "index": 6,
+    "filename": "img_006_urban_blocks_gaussian_noise.png",
+    "category": "urban_blocks",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_006_urban_blocks_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_006_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_006_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_006_edges.png"
+  },
+  {
+    "index": 7,
+    "filename": "img_007_biometric_fingerprint_gaussian_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_007_biometric_fingerprint_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_007_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_007_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_007_edges.png"
+  },
+  {
+    "index": 8,
+    "filename": "img_008_satellite_river_forest_gaussian_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_008_satellite_river_forest_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_008_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_008_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_008_edges.png"
+  },
+  {
+    "index": 9,
+    "filename": "img_009_historical_manuscript_gaussian_noise.png",
+    "category": "historical_manuscript",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_009_historical_manuscript_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_009_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_009_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_009_edges.png"
+  },
+  {
+    "index": 10,
+    "filename": "img_010_aerial_runway_impulse_noise.png",
+    "category": "aerial_runway",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_010_aerial_runway_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_010_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_010_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_010_edges.png"
+  },
+  {
+    "index": 11,
+    "filename": "img_011_urban_blocks_impulse_noise.png",
+    "category": "urban_blocks",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_011_urban_blocks_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_011_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_011_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_011_edges.png"
+  },
+  {
+    "index": 12,
+    "filename": "img_012_biometric_fingerprint_impulse_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_012_biometric_fingerprint_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_012_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_012_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_012_edges.png"
+  },
+  {
+    "index": 13,
+    "filename": "img_013_satellite_river_forest_impulse_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_013_satellite_river_forest_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_013_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_013_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_013_edges.png"
+  },
+  {
+    "index": 14,
+    "filename": "img_014_historical_manuscript_impulse_noise.png",
+    "category": "historical_manuscript",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_014_historical_manuscript_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_014_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_014_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_014_edges.png"
+  },
+  {
+    "index": 15,
+    "filename": "img_015_aerial_runway_low_contrast.png",
+    "category": "aerial_runway",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_015_aerial_runway_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_015_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_015_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_015_edges.png"
+  },
+  {
+    "index": 16,
+    "filename": "img_016_urban_blocks_low_contrast.png",
+    "category": "urban_blocks",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_016_urban_blocks_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_016_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_016_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_016_edges.png"
+  },
+  {
+    "index": 17,
+    "filename": "img_017_biometric_fingerprint_low_contrast.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_017_biometric_fingerprint_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_017_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_017_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_017_edges.png"
+  },
+  {
+    "index": 18,
+    "filename": "img_018_satellite_river_forest_low_contrast.png",
+    "category": "satellite_river_forest",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_018_satellite_river_forest_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_018_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_018_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_018_edges.png"
+  },
+  {
+    "index": 19,
+    "filename": "img_019_historical_manuscript_low_contrast.png",
+    "category": "historical_manuscript",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_019_historical_manuscript_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_019_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_019_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_019_edges.png"
+  },
+  {
+    "index": 20,
+    "filename": "img_020_aerial_runway_low_noise.png",
+    "category": "aerial_runway",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_020_aerial_runway_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_020_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_020_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_020_edges.png"
+  },
+  {
+    "index": 21,
+    "filename": "img_021_urban_blocks_low_noise.png",
+    "category": "urban_blocks",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_021_urban_blocks_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_021_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_021_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_021_edges.png"
+  },
+  {
+    "index": 22,
+    "filename": "img_022_biometric_fingerprint_low_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_022_biometric_fingerprint_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_022_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_022_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_022_edges.png"
+  },
+  {
+    "index": 23,
+    "filename": "img_023_satellite_river_forest_low_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_023_satellite_river_forest_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_023_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_023_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_023_edges.png"
+  },
+  {
+    "index": 24,
+    "filename": "img_024_historical_manuscript_low_noise.png",
+    "category": "historical_manuscript",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_024_historical_manuscript_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_024_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_024_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_024_edges.png"
+  },
+  {
+    "index": 25,
+    "filename": "img_025_aerial_runway_gaussian_noise.png",
+    "category": "aerial_runway",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_025_aerial_runway_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_025_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_025_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_025_edges.png"
+  },
+  {
+    "index": 26,
+    "filename": "img_026_urban_blocks_gaussian_noise.png",
+    "category": "urban_blocks",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_026_urban_blocks_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_026_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_026_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_026_edges.png"
+  },
+  {
+    "index": 27,
+    "filename": "img_027_biometric_fingerprint_gaussian_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_027_biometric_fingerprint_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_027_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_027_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_027_edges.png"
+  },
+  {
+    "index": 28,
+    "filename": "img_028_satellite_river_forest_gaussian_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_028_satellite_river_forest_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_028_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_028_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_028_edges.png"
+  },
+  {
+    "index": 29,
+    "filename": "img_029_historical_manuscript_gaussian_noise.png",
+    "category": "historical_manuscript",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_029_historical_manuscript_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_029_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_029_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_029_edges.png"
+  },
+  {
+    "index": 30,
+    "filename": "img_030_aerial_runway_impulse_noise.png",
+    "category": "aerial_runway",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_030_aerial_runway_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_030_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_030_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_030_edges.png"
+  },
+  {
+    "index": 31,
+    "filename": "img_031_urban_blocks_impulse_noise.png",
+    "category": "urban_blocks",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_031_urban_blocks_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_031_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_031_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_031_edges.png"
+  },
+  {
+    "index": 32,
+    "filename": "img_032_biometric_fingerprint_impulse_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_032_biometric_fingerprint_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_032_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_032_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_032_edges.png"
+  },
+  {
+    "index": 33,
+    "filename": "img_033_satellite_river_forest_impulse_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_033_satellite_river_forest_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_033_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_033_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_033_edges.png"
+  },
+  {
+    "index": 34,
+    "filename": "img_034_historical_manuscript_impulse_noise.png",
+    "category": "historical_manuscript",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_034_historical_manuscript_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_034_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_034_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_034_edges.png"
+  },
+  {
+    "index": 35,
+    "filename": "img_035_aerial_runway_low_contrast.png",
+    "category": "aerial_runway",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_035_aerial_runway_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_035_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_035_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_035_edges.png"
+  },
+  {
+    "index": 36,
+    "filename": "img_036_urban_blocks_low_contrast.png",
+    "category": "urban_blocks",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_036_urban_blocks_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_036_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_036_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_036_edges.png"
+  },
+  {
+    "index": 37,
+    "filename": "img_037_biometric_fingerprint_low_contrast.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_037_biometric_fingerprint_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_037_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_037_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_037_edges.png"
+  },
+  {
+    "index": 38,
+    "filename": "img_038_satellite_river_forest_low_contrast.png",
+    "category": "satellite_river_forest",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_038_satellite_river_forest_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_038_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_038_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_038_edges.png"
+  },
+  {
+    "index": 39,
+    "filename": "img_039_historical_manuscript_low_contrast.png",
+    "category": "historical_manuscript",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_039_historical_manuscript_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_039_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_039_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_039_edges.png"
+  },
+  {
+    "index": 40,
+    "filename": "img_040_aerial_runway_low_noise.png",
+    "category": "aerial_runway",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_040_aerial_runway_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_040_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_040_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_040_edges.png"
+  },
+  {
+    "index": 41,
+    "filename": "img_041_urban_blocks_low_noise.png",
+    "category": "urban_blocks",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_041_urban_blocks_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_041_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_041_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_041_edges.png"
+  },
+  {
+    "index": 42,
+    "filename": "img_042_biometric_fingerprint_low_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_042_biometric_fingerprint_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_042_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_042_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_042_edges.png"
+  },
+  {
+    "index": 43,
+    "filename": "img_043_satellite_river_forest_low_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_043_satellite_river_forest_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_043_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_043_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_043_edges.png"
+  },
+  {
+    "index": 44,
+    "filename": "img_044_historical_manuscript_low_noise.png",
+    "category": "historical_manuscript",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_044_historical_manuscript_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_044_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_044_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_044_edges.png"
+  },
+  {
+    "index": 45,
+    "filename": "img_045_aerial_runway_gaussian_noise.png",
+    "category": "aerial_runway",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_045_aerial_runway_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_045_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_045_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_045_edges.png"
+  },
+  {
+    "index": 46,
+    "filename": "img_046_urban_blocks_gaussian_noise.png",
+    "category": "urban_blocks",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_046_urban_blocks_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_046_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_046_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_046_edges.png"
+  },
+  {
+    "index": 47,
+    "filename": "img_047_biometric_fingerprint_gaussian_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_047_biometric_fingerprint_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_047_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_047_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_047_edges.png"
+  },
+  {
+    "index": 48,
+    "filename": "img_048_satellite_river_forest_gaussian_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_048_satellite_river_forest_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_048_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_048_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_048_edges.png"
+  },
+  {
+    "index": 49,
+    "filename": "img_049_historical_manuscript_gaussian_noise.png",
+    "category": "historical_manuscript",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_049_historical_manuscript_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_049_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_049_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_049_edges.png"
+  },
+  {
+    "index": 50,
+    "filename": "img_050_aerial_runway_impulse_noise.png",
+    "category": "aerial_runway",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_050_aerial_runway_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_050_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_050_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_050_edges.png"
+  },
+  {
+    "index": 51,
+    "filename": "img_051_urban_blocks_impulse_noise.png",
+    "category": "urban_blocks",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_051_urban_blocks_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_051_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_051_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_051_edges.png"
+  },
+  {
+    "index": 52,
+    "filename": "img_052_biometric_fingerprint_impulse_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_052_biometric_fingerprint_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_052_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_052_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_052_edges.png"
+  },
+  {
+    "index": 53,
+    "filename": "img_053_satellite_river_forest_impulse_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_053_satellite_river_forest_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_053_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_053_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_053_edges.png"
+  },
+  {
+    "index": 54,
+    "filename": "img_054_historical_manuscript_impulse_noise.png",
+    "category": "historical_manuscript",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_054_historical_manuscript_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_054_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_054_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_054_edges.png"
+  },
+  {
+    "index": 55,
+    "filename": "img_055_aerial_runway_low_contrast.png",
+    "category": "aerial_runway",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_055_aerial_runway_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_055_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_055_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_055_edges.png"
+  },
+  {
+    "index": 56,
+    "filename": "img_056_urban_blocks_low_contrast.png",
+    "category": "urban_blocks",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_056_urban_blocks_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_056_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_056_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_056_edges.png"
+  },
+  {
+    "index": 57,
+    "filename": "img_057_biometric_fingerprint_low_contrast.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_057_biometric_fingerprint_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_057_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_057_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_057_edges.png"
+  },
+  {
+    "index": 58,
+    "filename": "img_058_satellite_river_forest_low_contrast.png",
+    "category": "satellite_river_forest",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_058_satellite_river_forest_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_058_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_058_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_058_edges.png"
+  },
+  {
+    "index": 59,
+    "filename": "img_059_historical_manuscript_low_contrast.png",
+    "category": "historical_manuscript",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_059_historical_manuscript_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_059_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_059_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_059_edges.png"
+  },
+  {
+    "index": 60,
+    "filename": "img_060_aerial_runway_low_noise.png",
+    "category": "aerial_runway",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_060_aerial_runway_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_060_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_060_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_060_edges.png"
+  },
+  {
+    "index": 61,
+    "filename": "img_061_urban_blocks_low_noise.png",
+    "category": "urban_blocks",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_061_urban_blocks_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_061_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_061_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_061_edges.png"
+  },
+  {
+    "index": 62,
+    "filename": "img_062_biometric_fingerprint_low_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_062_biometric_fingerprint_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_062_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_062_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_062_edges.png"
+  },
+  {
+    "index": 63,
+    "filename": "img_063_satellite_river_forest_low_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_063_satellite_river_forest_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_063_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_063_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_063_edges.png"
+  },
+  {
+    "index": 64,
+    "filename": "img_064_historical_manuscript_low_noise.png",
+    "category": "historical_manuscript",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_064_historical_manuscript_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_064_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_064_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_064_edges.png"
+  },
+  {
+    "index": 65,
+    "filename": "img_065_aerial_runway_gaussian_noise.png",
+    "category": "aerial_runway",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_065_aerial_runway_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_065_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_065_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_065_edges.png"
+  },
+  {
+    "index": 66,
+    "filename": "img_066_urban_blocks_gaussian_noise.png",
+    "category": "urban_blocks",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_066_urban_blocks_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_066_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_066_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_066_edges.png"
+  },
+  {
+    "index": 67,
+    "filename": "img_067_biometric_fingerprint_gaussian_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_067_biometric_fingerprint_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_067_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_067_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_067_edges.png"
+  },
+  {
+    "index": 68,
+    "filename": "img_068_satellite_river_forest_gaussian_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_068_satellite_river_forest_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_068_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_068_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_068_edges.png"
+  },
+  {
+    "index": 69,
+    "filename": "img_069_historical_manuscript_gaussian_noise.png",
+    "category": "historical_manuscript",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_069_historical_manuscript_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_069_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_069_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_069_edges.png"
+  },
+  {
+    "index": 70,
+    "filename": "img_070_aerial_runway_impulse_noise.png",
+    "category": "aerial_runway",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_070_aerial_runway_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_070_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_070_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_070_edges.png"
+  },
+  {
+    "index": 71,
+    "filename": "img_071_urban_blocks_impulse_noise.png",
+    "category": "urban_blocks",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_071_urban_blocks_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_071_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_071_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_071_edges.png"
+  },
+  {
+    "index": 72,
+    "filename": "img_072_biometric_fingerprint_impulse_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_072_biometric_fingerprint_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_072_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_072_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_072_edges.png"
+  },
+  {
+    "index": 73,
+    "filename": "img_073_satellite_river_forest_impulse_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_073_satellite_river_forest_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_073_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_073_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_073_edges.png"
+  },
+  {
+    "index": 74,
+    "filename": "img_074_historical_manuscript_impulse_noise.png",
+    "category": "historical_manuscript",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_074_historical_manuscript_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_074_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_074_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_074_edges.png"
+  },
+  {
+    "index": 75,
+    "filename": "img_075_aerial_runway_low_contrast.png",
+    "category": "aerial_runway",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_075_aerial_runway_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_075_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_075_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_075_edges.png"
+  },
+  {
+    "index": 76,
+    "filename": "img_076_urban_blocks_low_contrast.png",
+    "category": "urban_blocks",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_076_urban_blocks_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_076_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_076_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_076_edges.png"
+  },
+  {
+    "index": 77,
+    "filename": "img_077_biometric_fingerprint_low_contrast.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_077_biometric_fingerprint_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_077_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_077_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_077_edges.png"
+  },
+  {
+    "index": 78,
+    "filename": "img_078_satellite_river_forest_low_contrast.png",
+    "category": "satellite_river_forest",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_078_satellite_river_forest_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_078_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_078_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_078_edges.png"
+  },
+  {
+    "index": 79,
+    "filename": "img_079_historical_manuscript_low_contrast.png",
+    "category": "historical_manuscript",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_079_historical_manuscript_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_079_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_079_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_079_edges.png"
+  },
+  {
+    "index": 80,
+    "filename": "img_080_aerial_runway_low_noise.png",
+    "category": "aerial_runway",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_080_aerial_runway_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_080_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_080_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_080_edges.png"
+  },
+  {
+    "index": 81,
+    "filename": "img_081_urban_blocks_low_noise.png",
+    "category": "urban_blocks",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_081_urban_blocks_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_081_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_081_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_081_edges.png"
+  },
+  {
+    "index": 82,
+    "filename": "img_082_biometric_fingerprint_low_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_082_biometric_fingerprint_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_082_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_082_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_082_edges.png"
+  },
+  {
+    "index": 83,
+    "filename": "img_083_satellite_river_forest_low_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_083_satellite_river_forest_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_083_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_083_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_083_edges.png"
+  },
+  {
+    "index": 84,
+    "filename": "img_084_historical_manuscript_low_noise.png",
+    "category": "historical_manuscript",
+    "condition": "low_noise",
+    "image_path": "stem_dataset/img_084_historical_manuscript_low_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_084_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_084_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_084_edges.png"
+  },
+  {
+    "index": 85,
+    "filename": "img_085_aerial_runway_gaussian_noise.png",
+    "category": "aerial_runway",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_085_aerial_runway_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_085_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_085_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_085_edges.png"
+  },
+  {
+    "index": 86,
+    "filename": "img_086_urban_blocks_gaussian_noise.png",
+    "category": "urban_blocks",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_086_urban_blocks_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_086_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_086_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_086_edges.png"
+  },
+  {
+    "index": 87,
+    "filename": "img_087_biometric_fingerprint_gaussian_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_087_biometric_fingerprint_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_087_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_087_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_087_edges.png"
+  },
+  {
+    "index": 88,
+    "filename": "img_088_satellite_river_forest_gaussian_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_088_satellite_river_forest_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_088_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_088_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_088_edges.png"
+  },
+  {
+    "index": 89,
+    "filename": "img_089_historical_manuscript_gaussian_noise.png",
+    "category": "historical_manuscript",
+    "condition": "gaussian_noise",
+    "image_path": "stem_dataset/img_089_historical_manuscript_gaussian_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_089_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_089_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_089_edges.png"
+  },
+  {
+    "index": 90,
+    "filename": "img_090_aerial_runway_impulse_noise.png",
+    "category": "aerial_runway",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_090_aerial_runway_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_090_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_090_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_090_edges.png"
+  },
+  {
+    "index": 91,
+    "filename": "img_091_urban_blocks_impulse_noise.png",
+    "category": "urban_blocks",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_091_urban_blocks_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_091_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_091_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_091_edges.png"
+  },
+  {
+    "index": 92,
+    "filename": "img_092_biometric_fingerprint_impulse_noise.png",
+    "category": "biometric_fingerprint",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_092_biometric_fingerprint_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_092_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_092_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_092_edges.png"
+  },
+  {
+    "index": 93,
+    "filename": "img_093_satellite_river_forest_impulse_noise.png",
+    "category": "satellite_river_forest",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_093_satellite_river_forest_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_093_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_093_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_093_edges.png"
+  },
+  {
+    "index": 94,
+    "filename": "img_094_historical_manuscript_impulse_noise.png",
+    "category": "historical_manuscript",
+    "condition": "impulse_noise",
+    "image_path": "stem_dataset/img_094_historical_manuscript_impulse_noise.png",
+    "ref_clean_path": "stem_dataset/references/img_094_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_094_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_094_edges.png"
+  },
+  {
+    "index": 95,
+    "filename": "img_095_aerial_runway_low_contrast.png",
+    "category": "aerial_runway",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_095_aerial_runway_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_095_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_095_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_095_edges.png"
+  },
+  {
+    "index": 96,
+    "filename": "img_096_urban_blocks_low_contrast.png",
+    "category": "urban_blocks",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_096_urban_blocks_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_096_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_096_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_096_edges.png"
+  },
+  {
+    "index": 97,
+    "filename": "img_097_biometric_fingerprint_low_contrast.png",
+    "category": "biometric_fingerprint",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_097_biometric_fingerprint_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_097_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_097_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_097_edges.png"
+  },
+  {
+    "index": 98,
+    "filename": "img_098_satellite_river_forest_low_contrast.png",
+    "category": "satellite_river_forest",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_098_satellite_river_forest_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_098_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_098_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_098_edges.png"
+  },
+  {
+    "index": 99,
+    "filename": "img_099_historical_manuscript_low_contrast.png",
+    "category": "historical_manuscript",
+    "condition": "low_contrast",
+    "image_path": "stem_dataset/img_099_historical_manuscript_low_contrast.png",
+    "ref_clean_path": "stem_dataset/references/img_099_clean.png",
+    "ref_mask_path": "stem_dataset/references/img_099_mask.png",
+    "ref_edge_path": "stem_dataset/references/img_099_edges.png"
+  }
+]

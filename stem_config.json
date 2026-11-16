@@ -1,0 +1,69 @@
+{
+  "project_name": "STEM-проєкт: Класичні методи фільтрації, сегментації та аналізу текстур",
+  "author": "Бобенко Сергій, ІПЗ-23(08)",
+  "variant": "Індивідуальний, Варіант 1 (6 методів із 6 категорій, вибірка 100 зображень)",
+  "seed": 42,
+  "dataset": {
+    "input_dir": "stem_dataset",
+    "num_images": 100,
+    "image_size": [128, 128],
+    "categories": [
+      "aerial_runway",
+      "urban_blocks",
+      "biometric_fingerprint",
+      "satellite_river_forest",
+      "historical_manuscript"
+    ]
+  },
+  "output": {
+    "output_dir": "stem_results",
+    "metrics_csv": "stem_results/metrics.csv",
+    "metrics_json": "stem_results/metrics.json",
+    "summary_csv": "stem_results/summary_by_method.csv"
+  },
+  "methods": {
+    "bilateral": {
+      "enabled": true,
+      "category": "Ретушування та шумоподавлення",
+      "ksize": 5,
+      "sigma_spatial": 2.0,
+      "sigma_range": 28.0
+    },
+    "clahe": {
+      "enabled": true,
+      "category": "Гістограмна корекція",
+      "grid_size": 4,
+      "clip_limit": 2.5
+    },
+    "sobel": {
+      "enabled": true,
+      "category": "Контурний аналіз",
+      "normalize": true,
+      "edge_threshold": 60
+    },
+    "otsu": {
+      "enabled": true,
+      "category": "Сегментація зображень",
+      "reconstruct_class_means": true
+    },
+    "morphology": {
+      "enabled": true,
+      "category": "Морфологічна обробка",
+      "ksize": 3,
+      "operation": "open_close_smooth"
+    },
+    "lbp_glcm": {
+      "enabled": true,
+      "category": "Аналіз текстур",
+      "glcm_levels": 16,
+      "distance": 1
+    }
+  },
+  "validation_thresholds": {
+    "min_bilateral_psnr_db": 22.0,
+    "min_bilateral_ssim": 0.70,
+    "min_morphology_psnr_db": 20.0,
+    "min_otsu_iou": 0.55,
+    "min_sobel_edge_f1": 0.50
+  }
+}
